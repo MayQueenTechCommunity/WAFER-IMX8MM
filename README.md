@@ -16,12 +16,12 @@ The CITADEL-HMI BSP includes Linux kernel up to 5.10, Yocto/Ubuntu/Android BSP a
 #### Overview
 |                         Fanless AIOT Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://mayqueentech.com/img/CITADEL-HMI.png" width="200"/> | **CITADEL-HMI** <br />     3.5" ARM64 HMI open frame board with NXP i.MX 8M Mini <br/> Datasheet(coming soon) | Yocto LTS <br /> Ubuntu LTS <br /> Android |  |
+| <img src="https://mayqueentech.com/img/wafer-imx8mm.png" width="200"/> | **CITADEL-HMI** <br />     3.5" ARM64 HMI open frame board with NXP i.MX 8M Mini <br/> Datasheet(coming soon) | Yocto LTS <br /> Ubuntu LTS <br /> Android |  |
 
 
 |                         Specifications                         |                                                   |
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
-| CPU | **NXP i.MX8M Plus** <br />    ARM Cortex-A53 1.8GHz Quad Cores |
+| CPU | **NXP i.MX8M Mini** <br />    ARM Cortex-A53 1.8GHz Quad Cores |
 | Memory | 4GB LPDDR4 |
 | Storage | 32GB eMMC <br /> uSD slot|
 | PMIC | NXP PCA9450 |
