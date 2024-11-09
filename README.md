@@ -1,22 +1,22 @@
 <img src="https://www.mayqueentech.com/img/logo.png" width="100" align="right">
 <br>
 
-### MayQueen introduces WAFER-IMX8MM
+### MayQueen introduces CITADEL-HMI
 Which is an HMI (Human-Machine-Interface) open frame board based on NXP i.MX8M-Mini processor
 
-Designed to bring out the full capabilities of the i.MX8M-Mini SoC, WAFER-IMX8MM provides 4GB RAM and 32GB eMMC, 1 Gigabit Ethernet, RGMII, 2 USB 2.0 ports, 1 UARTs for RS232/RS422/RS485, buzzer, audio headest jack and 2 I2Cs. Display connectivity is supported with up to 1080P resolution eDP panel, we provide different size panels for WAFER-IMX8MM, Measuring just 155 x 110 x 35 mm size with metal enclosure, WAFER-IMX8MM also features optional WiFi 802.11ac and Bluetooth 5.x interfaces.
+Designed to bring out the full capabilities of the i.MX8M-Mini SoC, CITADEL-HMI provides 4GB RAM and 32GB eMMC, 1 Gigabit Ethernet, RGMII, 2 USB 2.0 ports, 1 UARTs for RS232/RS422/RS485, buzzer, audio headest jack and 2 I2Cs. Display connectivity is supported with up to 1080P resolution eDP panel, we provide different size panels for CITADEL-HMI, Measuring just 155 x 110 x 35 mm size with metal enclosure, CITADEL-HMI also features optional WiFi 802.11ac and Bluetooth 5.x interfaces.
 
-Excellent connectivity, low cost and small size make WAFER-IMX8MM a modular solution for many applications such as panel PC with open frame, digital signage, robotic controller, and low power efficiency device. In addition, WAFER-IMX8MM incorporates numerous design innovations on its metal shell, such as easy disassembly and the addition of a dedicated shield for debugging/programming software. This feature allows you to perform development tasks without the need to dismantle the entire casing.
+Excellent connectivity, low cost and small size make CITADEL-HMI a modular solution for many applications such as panel PC with open frame, digital signage, robotic controller, and low power efficiency device. In addition, CITADEL-HMI incorporates numerous design innovations on its metal shell, such as easy disassembly and the addition of a dedicated shield for debugging/programming software. This feature allows you to perform development tasks without the need to dismantle the entire casing.
 
 Software Support
-WAFER-IMX8MM is provided with a full BSP and ready-to-run images for the Linux/Android operating system.
-The WAFER-IMX8MM BSP includes Linux kernel up to 5.10, Yocto/Ubuntu/Android BSP and U-Boot boot-loader.
+CITADEL-HMI is provided with a full BSP and ready-to-run images for the Linux/Android operating system.
+The CITADEL-HMI BSP includes Linux kernel up to 5.10, Yocto/Ubuntu/Android BSP and U-Boot boot-loader.
 <br>
 
 #### Overview
 |                         Fanless AIOT Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://mayqueentech.com/img/wafer-imx8mm.png" width="200"/> | **WAFER-IMX8MM** <br />     3.5" ARM64 HMI open frame board with NXP i.MX 8M Mini <br/> Datasheet(coming soon) | Yocto LTS <br /> Ubuntu LTS <br /> Android |  |
+| <img src="https://mayqueentech.com/img/CITADEL-HMI.png" width="200"/> | **CITADEL-HMI** <br />     3.5" ARM64 HMI open frame board with NXP i.MX 8M Mini <br/> Datasheet(coming soon) | Yocto LTS <br /> Ubuntu LTS <br /> Android |  |
 
 
 |                         Specifications                         |                                                   |
@@ -50,8 +50,8 @@ The WAFER-IMX8MM BSP includes Linux kernel up to 5.10, Yocto/Ubuntu/Android BSP 
 
 
 #### Price and Availability
-WAFER-IMX8MM is now available through direct sales (www.mayqueentech.com).
-WAFER-IMX8MM is offered in a variety of configurations starting from $190 for 1pc order.
+CITADEL-HMI is now available through direct sales (www.mayqueentech.com).
+CITADEL-HMI is offered in a variety of configurations starting from $190 for 1pc order.
 Detailed ordering and pricing information is available on sales contact window.
 <br>
 
